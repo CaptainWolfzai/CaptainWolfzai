@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CaptainWolfzai
 - 👀 I’m interested in IT - WebDev, Design and Mobile Applications
-- 🌱 I’m currently learning WebFlow, Python ...
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning WebFlow and Python
+- 💞️ I’m always opened for collaborations!
 - 📫 Reach me via GH
 
 <!---
